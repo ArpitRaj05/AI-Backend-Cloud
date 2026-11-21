@@ -1,0 +1,14 @@
+[
+    {
+        "title": "backend",
+        "completed": true
+    },
+    {
+        "title": "AI",
+        "completed": true
+    },
+    {
+        "title": "cloud",
+        "completed": false
+    }
+]
